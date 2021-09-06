@@ -4,7 +4,7 @@
 
 This document explains my solution to UTD ACM Research's Fall 2021 Coding Challenge. Unfortunately, I lack the technical expertise to implement my solution, so this repository contains only this document and a file with a sample input.
 
-The solution is divided into a number two "steps". Step zero is performed before analyzing anything. Then, step one is performed each time a passage is analyzed.
+The solution is divided into two "steps". Step zero is performed before analyzing anything. Then, step one is performed each time a passage is analyzed.
 
 ## Step 0: Establishing a Dictionary
 
